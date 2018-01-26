@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Packages on Storey Lab</title>
-    <link>storeylab.org/software/</link>
+    <link>http://storeylab.org/software/</link>
     <description>Recent content in Software Packages on Storey Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 John D. Storey</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="storeylab.org/software/" rel="self" type="application/rss+xml" />
+    <atom:link href="/software/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

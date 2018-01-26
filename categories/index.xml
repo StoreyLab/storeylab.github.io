@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Storey Lab</title>
-    <link>storeylab.org/categories/</link>
+    <link>http://storeylab.org/categories/</link>
     <description>Recent content in Categories on Storey Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 John D. Storey</copyright>
-    <atom:link href="storeylab.org/categories/" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
