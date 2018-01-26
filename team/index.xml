@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lab Members on Storey Lab</title>
+    <link>storeylab.org/team/</link>
+    <description>Recent content in Lab Members on Storey Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 John D. Storey</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="storeylab.org/team/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>John D. Storey</title>
+      <link>storeylab.org/team/storey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/team/storey/</guid>
+      <description>&lt;p&gt;John Storey is a professor of statistics and genomics at Princeton University, where he is officially the William R. Harman ’63 and Mary-Love Harman Professor in Genomics. John’s research has been concerned with developing and applying statistical methods to high-dimensional data in genomics. In addition to being primarily appointed in the Lewis-Sigler Institute for Integrative Genomics, he is an associated faculty member in five other departments or insitutes on campus.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Andrew J. Bass</title>
+      <link>storeylab.org/team/bass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/team/bass/</guid>
+      <description>&lt;p&gt;Andrew Bass is a PhD student in the Quantitative and Computational Biology (QCB) program. His research goals are to develop useful statistical methodologies to analyze high-dimensional data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Irineo C. Cabreros</title>
+      <link>storeylab.org/team/cabreros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/team/cabreros/</guid>
+      <description>&lt;p&gt;Irineo Cabreros is a PhD student in the Program for Applied and Computational Mathematics (PACM). His primary interest is in high-dimensional causal inference: both theoretical aspects as well as applications to gene networks.  Irineo also works on algorithms for fitting population admixture models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wei Hao</title>
+      <link>storeylab.org/team/hao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/team/hao/</guid>
+      <description>&lt;p&gt;Wei Hao is a PhD student in the Quantitative and Computational Biology (QCB) program. Prior to this, he worked as a scientific programmer in the Storey Lab. Wei&amp;rsquo;s research interests are primarily about high-dimensional statistical models in the context of statistical genomics as well as the applications and implementations of such models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alejandro Ochoa</title>
+      <link>storeylab.org/team/ochoa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/team/ochoa/</guid>
+      <description>&lt;p&gt;Alex Ochoa is a postdoc in John Storey&amp;rsquo;s lab, at the Lewis-Sigler Institute for Integrative Genomics. Alex&amp;rsquo;s research is in population genetics (kinship, F&lt;sub&gt;ST&lt;/sub&gt;, GWAS), psychiatric response modeling, and previously on protein domain probabilistic sequence models and their statistics. See his &lt;a href=&#34;http://viiia.org/cv/cv.pdf&#34; target=&#34;_blank&#34;&gt;curriculum vitae&lt;/a&gt; for more information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Riley Skeen-Gaar</title>
+      <link>storeylab.org/team/skeengaar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/team/skeengaar/</guid>
+      <description>&lt;p&gt;Riley Skeen-Gaar is a PhD student in the Quantitative and Computational Biology (QCB) program. Riley develops methods for studying the genetics of gene expression.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Storey Lab</title>
+    <link>storeylab.org/publication/</link>
+    <description>Recent content in Publications on Storey Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 John D. Storey</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="storeylab.org/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The functional false discovery rate with applications to genomics</title>
+      <link>storeylab.org/publication/chen241133/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/publication/chen241133/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A nonparametric estimator of population structure unifying admixture models and principal components analysis</title>
+      <link>storeylab.org/publication/cabreros240812/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/publication/cabreros240812/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extending tests of Hardy-Weinberg equilibrium to structured populations</title>
+      <link>storeylab.org/publication/hao240804/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/publication/hao240804/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed membership martial arts: Data-driven analysis of winning martial arts styles</title>
+      <link>storeylab.org/publication/hackett2017/</link>
+      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/publication/hackett2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling probabilistic models of genetic variation to millions of humans</title>
+      <link>storeylab.org/publication/gopalan2016/</link>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/publication/gopalan2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems-level analysis of mechanisms regulating yeast metabolic flux</title>
+      <link>storeylab.org/publication/hackett_2016/</link>
+      <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/publication/hackett_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$F_{ST}$ and kinship for arbitrary population structures I: Generalized definitions</title>
+      <link>storeylab.org/publication/ochoa083915/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/publication/ochoa083915/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$F_{ST}$ and kinship for arbitrary population structures II: Method of moments estimators</title>
+      <link>storeylab.org/publication/ochoa083923/</link>
+      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/publication/ochoa083923/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond the E-Value: Stratified statistics for protein domain prediction</title>
+      <link>storeylab.org/publication/ochoa_2015/</link>
+      <pubDate>Tue, 17 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/publication/ochoa_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic models of genetic variation in structured populations applied to global human studies</title>
+      <link>storeylab.org/publication/hao_2015/</link>
+      <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/publication/hao_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent estimation of low-dimensional latent structure in high-dimensional data</title>
+      <link>storeylab.org/publication/1510.03497/</link>
+      <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/publication/1510.03497/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A nested parallel experiment demonstrates differences in intensity-dependence between RNA-seq and microarrays</title>
+      <link>storeylab.org/publication/robinson_2015/</link>
+      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/publication/robinson_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling probabilistic models of genetic variation to millions of humans</title>
+      <link>storeylab.org/publication/gopalan013227/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/publication/gopalan013227/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing for genetic associations in arbitrarily structured populations</title>
+      <link>storeylab.org/publication/song_2015/</link>
+      <pubDate>Mon, 30 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/publication/song_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing for genetic associations in arbitrarily structured populations</title>
+      <link>storeylab.org/publication/song012682/</link>
+      <pubDate>Wed, 04 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>storeylab.org/publication/song012682/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
