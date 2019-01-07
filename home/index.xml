@@ -8,7 +8,38 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 John D. Storey</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://storeylab.org/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://storeylab.org/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/home/about/</guid>
+      <description>About The Storey Lab for Statistical Genomics is based in the Lewis-Sigler Institute for Integrative Genomics at Princeton University. We spend our time doing a mix of the following:
+ population genomics quantitative genomics statistical theory and methods analysis of complex data sets open-source data science software development  Members of the lab have backgrounds in statistics, computer science, mathematics, physics, and biology &amp;mdash; so we&amp;rsquo;re a multidisciplinary group. Our overarching mission is to significantly contribute to careful, rigorous, open, and well-communicated data-driven scientific discovery with a particular focus in the life sciences.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://storeylab.org/home/research/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/home/research/</guid>
+      <description>The Storey Lab&amp;rsquo;s current research efforts are in the following areas:
+ Extending fundamental population genetics models and quantities &amp;mdash; such as allele frequencies, Hardy-Weinberg equilibrium, $F_{ST}$, ancestry, and kinship &amp;mdash; to genome-wide genotype data making minimal assumptions about population structure Genetics of gene expression, with an emphasis on causal inference and high-dimensional trait models Latent variable decompositions for high-dimensional data, with an emphasis on exponential family distributions Latent variable modeling in the context of high-dimensional significance testing &amp;mdash; such as surrogate variable analysis and cross-dimensional inference Signficance testing on high-dimensional regression models Models and estimators for false discovery rates and q-values  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://storeylab.org/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

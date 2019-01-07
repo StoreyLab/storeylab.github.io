@@ -41,26 +41,6 @@
     </item>
     
     <item>
-      <title>Wei Hao</title>
-      <link>http://storeylab.org/team/hao/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://storeylab.org/team/hao/</guid>
-      <description>&lt;p&gt;Wei Hao is a PhD student in the Quantitative and Computational Biology (QCB) program. Prior to this, he worked as a scientific programmer in the Storey Lab. Wei&amp;rsquo;s research interests are primarily about high-dimensional statistical models in the context of statistical genomics as well as the applications and implementations of such models.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Alejandro Ochoa</title>
-      <link>http://storeylab.org/team/ochoa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://storeylab.org/team/ochoa/</guid>
-      <description>&lt;p&gt;Alex Ochoa is a postdoc in John Storey&amp;rsquo;s lab, at the Lewis-Sigler Institute for Integrative Genomics. Alex&amp;rsquo;s research is in population genetics (kinship, F&lt;sub&gt;ST&lt;/sub&gt;, GWAS), psychiatric response modeling, and previously on protein domain probabilistic sequence models and their statistics. See his &lt;a href=&#34;http://viiia.org/cv/cv.pdf&#34; target=&#34;_blank&#34;&gt;curriculum vitae&lt;/a&gt; for more information.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Riley Skeen-Gaar</title>
       <link>http://storeylab.org/team/skeengaar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -149,6 +129,24 @@
       <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>http://storeylab.org/publication/ochoa083923/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond the E-Value: Stratified statistics for protein domain prediction</title>
+      <link>http://storeylab.org/publication/ochoa_2015/</link>
+      <pubDate>Tue, 17 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/publication/ochoa_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic models of genetic variation in structured populations applied to global human studies</title>
+      <link>http://storeylab.org/publication/hao_2015/</link>
+      <pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/publication/hao_2015/</guid>
       <description></description>
     </item>
     
