@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Storey Lab on Storey Lab</title>
@@ -7,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 -- 2019 John D. Storey</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -48,6 +47,24 @@
       <guid>http://storeylab.org/team/skeengaar/</guid>
       <description>&lt;p&gt;Riley Skeen-Gaar is a PhD student in the Quantitative and Computational Biology (QCB) program. Riley develops methods for studying the genetics of gene expression.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>New kinship and $F_{ST}$ estimates reveal higher levels of differentiation in the global human population</title>
+      <link>http://storeylab.org/publication/ochoa653279/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/publication/ochoa653279/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining sufficient sequencing depth in RNA-Seq differential expression studies</title>
+      <link>http://storeylab.org/publication/bass635623/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/publication/bass635623/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -129,24 +146,6 @@
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>http://storeylab.org/publication/gopalan2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Systems-level analysis of mechanisms regulating yeast metabolic flux</title>
-      <link>http://storeylab.org/publication/hackett_2016/</link>
-      <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://storeylab.org/publication/hackett_2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>$F_{ST}$ and kinship for arbitrary population structures I: Generalized definitions</title>
-      <link>http://storeylab.org/publication/ochoa083915/</link>
-      <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://storeylab.org/publication/ochoa083915/</guid>
       <description></description>
     </item>
     
