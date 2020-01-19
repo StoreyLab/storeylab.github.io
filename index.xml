@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 -- 2019 John D. Storey</copyright>
-    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -50,6 +50,51 @@
     </item>
     
     <item>
+      <title>Extending tests of Hardy-Weinberg equilibrium to structured populations</title>
+      <link>http://storeylab.org/publication/hao2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/publication/hao2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A likelihood-free estimator of population structure bridging admixture models and principal components analysis</title>
+      <link>http://storeylab.org/publication/cabreros2019alstructure/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/publication/cabreros2019alstructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal models on probability spaces</title>
+      <link>http://storeylab.org/publication/cabreros2019causal/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/publication/cabreros2019causal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$F_{ST}$ and kinship for arbitrary population structures I: Generalized definitions</title>
+      <link>http://storeylab.org/publication/ochoa083915_2019/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/publication/ochoa083915_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$F_{ST}$ and kinship for arbitrary population structures II: Method-of-moments estimators</title>
+      <link>http://storeylab.org/publication/ochoa083923_2019/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/publication/ochoa083923_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>New kinship and $F_{ST}$ estimates reveal higher levels of differentiation in the global human population</title>
       <link>http://storeylab.org/publication/ochoa653279/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
@@ -59,11 +104,29 @@
     </item>
     
     <item>
+      <title>The functional false discovery rate with applications to genomics</title>
+      <link>http://storeylab.org/publication/chen2019/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/publication/chen2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Determining sufficient sequencing depth in RNA-Seq differential expression studies</title>
       <link>http://storeylab.org/publication/bass635623/</link>
       <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
       
       <guid>http://storeylab.org/publication/bass635623/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A likelihood-free estimator of population structure bridging admixture models and principal components analysis</title>
+      <link>http://storeylab.org/publication/cabreros240812_2019/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/publication/cabreros240812_2019/</guid>
       <description></description>
     </item>
     
@@ -82,70 +145,6 @@
       <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>http://storeylab.org/publication/painter2018b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genome-wide real-time in vivo transcriptional dynamics during Plasmodium falciparum blood-stage development</title>
-      <link>http://storeylab.org/publication/painter2018a/</link>
-      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://storeylab.org/publication/painter2018a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The functional false discovery rate with applications to genomics</title>
-      <link>http://storeylab.org/publication/chen241133/</link>
-      <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://storeylab.org/publication/chen241133/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A nonparametric estimator of population structure unifying admixture models and principal components analysis</title>
-      <link>http://storeylab.org/publication/cabreros240812/</link>
-      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://storeylab.org/publication/cabreros240812/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Extending tests of Hardy-Weinberg equilibrium to structured populations</title>
-      <link>http://storeylab.org/publication/hao240804/</link>
-      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://storeylab.org/publication/hao240804/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mixed membership martial arts: Data-driven analysis of winning martial arts styles</title>
-      <link>http://storeylab.org/publication/hackett2017/</link>
-      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://storeylab.org/publication/hackett2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>http://storeylab.org/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://storeylab.org/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Scaling probabilistic models of genetic variation to millions of humans</title>
-      <link>http://storeylab.org/publication/gopalan2016/</link>
-      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://storeylab.org/publication/gopalan2016/</guid>
       <description></description>
     </item>
     

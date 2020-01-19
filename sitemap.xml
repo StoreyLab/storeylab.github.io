@@ -36,6 +36,61 @@
     
     <url>
     
+      <loc>http://storeylab.org/publication/hao2019/</loc>
+      <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://storeylab.org/</loc>
+      <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://storeylab.org/publication/cabreros2019alstructure/</loc>
+      <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://storeylab.org/publication/cabreros2019causal/</loc>
+      <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://storeylab.org/publication/ochoa083915_2019/</loc>
+      <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://storeylab.org/publication/ochoa083923_2019/</loc>
+      <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://storeylab.org/publication/ochoa653279/</loc>
       <lastmod>2019-05-30T00:00:00+00:00</lastmod>
     </url>
@@ -45,9 +100,8 @@
     
     <url>
     
-      <loc>http://storeylab.org/</loc>
-      <lastmod>2019-05-30T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>http://storeylab.org/publication/chen2019/</loc>
+      <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -57,6 +111,15 @@
     
       <loc>http://storeylab.org/publication/bass635623/</loc>
       <lastmod>2019-05-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://storeylab.org/publication/cabreros240812_2019/</loc>
+      <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -100,7 +163,7 @@
     
     <url>
     
-      <loc>http://storeylab.org/publication/cabreros240812/</loc>
+      <loc>http://storeylab.org/publication/cabreros240812_2017/</loc>
       <lastmod>2017-12-29T00:00:00+00:00</lastmod>
     </url>
     
@@ -217,7 +280,7 @@
     
     <url>
     
-      <loc>http://storeylab.org/publication/ochoa083915/</loc>
+      <loc>http://storeylab.org/publication/ochoa083915_2016/</loc>
       <lastmod>2016-10-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -226,7 +289,7 @@
     
     <url>
     
-      <loc>http://storeylab.org/publication/ochoa083923/</loc>
+      <loc>http://storeylab.org/publication/ochoa083923_2016/</loc>
       <lastmod>2016-10-27T00:00:00+00:00</lastmod>
     </url>
     

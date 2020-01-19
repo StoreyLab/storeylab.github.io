@@ -13,6 +13,51 @@
     
     
     <item>
+      <title>Extending tests of Hardy-Weinberg equilibrium to structured populations</title>
+      <link>http://storeylab.org/publication/hao2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/publication/hao2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A likelihood-free estimator of population structure bridging admixture models and principal components analysis</title>
+      <link>http://storeylab.org/publication/cabreros2019alstructure/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/publication/cabreros2019alstructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal models on probability spaces</title>
+      <link>http://storeylab.org/publication/cabreros2019causal/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/publication/cabreros2019causal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$F_{ST}$ and kinship for arbitrary population structures I: Generalized definitions</title>
+      <link>http://storeylab.org/publication/ochoa083915_2019/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/publication/ochoa083915_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$F_{ST}$ and kinship for arbitrary population structures II: Method-of-moments estimators</title>
+      <link>http://storeylab.org/publication/ochoa083923_2019/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/publication/ochoa083923_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>New kinship and $F_{ST}$ estimates reveal higher levels of differentiation in the global human population</title>
       <link>http://storeylab.org/publication/ochoa653279/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
@@ -22,11 +67,29 @@
     </item>
     
     <item>
+      <title>The functional false discovery rate with applications to genomics</title>
+      <link>http://storeylab.org/publication/chen2019/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/publication/chen2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Determining sufficient sequencing depth in RNA-Seq differential expression studies</title>
       <link>http://storeylab.org/publication/bass635623/</link>
       <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
       
       <guid>http://storeylab.org/publication/bass635623/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A likelihood-free estimator of population structure bridging admixture models and principal components analysis</title>
+      <link>http://storeylab.org/publication/cabreros240812_2019/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://storeylab.org/publication/cabreros240812_2019/</guid>
       <description></description>
     </item>
     
@@ -68,10 +131,10 @@
     
     <item>
       <title>A nonparametric estimator of population structure unifying admixture models and principal components analysis</title>
-      <link>http://storeylab.org/publication/cabreros240812/</link>
+      <link>http://storeylab.org/publication/cabreros240812_2017/</link>
       <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://storeylab.org/publication/cabreros240812/</guid>
+      <guid>http://storeylab.org/publication/cabreros240812_2017/</guid>
       <description></description>
     </item>
     
@@ -113,19 +176,19 @@
     
     <item>
       <title>$F_{ST}$ and kinship for arbitrary population structures I: Generalized definitions</title>
-      <link>http://storeylab.org/publication/ochoa083915/</link>
+      <link>http://storeylab.org/publication/ochoa083915_2016/</link>
       <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://storeylab.org/publication/ochoa083915/</guid>
+      <guid>http://storeylab.org/publication/ochoa083915_2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>$F_{ST}$ and kinship for arbitrary population structures II: Method of moments estimators</title>
-      <link>http://storeylab.org/publication/ochoa083923/</link>
+      <link>http://storeylab.org/publication/ochoa083923_2016/</link>
       <pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://storeylab.org/publication/ochoa083923/</guid>
+      <guid>http://storeylab.org/publication/ochoa083923_2016/</guid>
       <description></description>
     </item>
     
