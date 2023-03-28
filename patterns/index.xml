@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patterns on John Storey Lab | Princeton University</title>
+    <link>https://storeylab.org/patterns/</link>
+    <description>Recent content in Patterns on John Storey Lab | Princeton University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://storeylab.org/patterns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://storeylab.org/patterns/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://storeylab.org/patterns/research/</guid>
+      <description> The Storey Lab&amp;rsquo;s current research efforts are in the following areas:
+Extending fundamental population genetics models and quantities &amp;mdash; such as allele frequencies, Hardy-Weinberg equilibrium, FST, admixture, ancestry, and kinship &amp;mdash; to genome-wide genotype data making minimal assumptions about population structure Improving the accuracy and applicability of the polygenic trait model in population-based studies for determining the genetic basis of complex traits, including association studies, genome-wide heritability, and polygenic risk scores Developing causal inference methods and study designs for population-based genetics studies of complex traits Latent variable decompositions of high-dimensional data, with an emphasis on admixture, population structure, and exponential family distributions Latent variable modeling in the context of high-dimensional significance testing &amp;mdash; such as surrogate variable analysis and cross-dimensional inference Signficance testing on high-dimensional regression models Models and estimators for false discovery rates and q-values </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://storeylab.org/patterns/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://storeylab.org/patterns/publications/</guid>
+      <description>Ochoa, A. and J. D. Storey (2021). &amp;ldquo;Estimating F_ST and kinship for arbitrary population structures&amp;rdquo;. PLoS Genetics 17.1. First published online 2020-11-02, p. e1009241. https://doi.org/10.1371/journal.pgen.1009241. Graim, K. and et al. (2021). &amp;ldquo;Modeling molecular development of breast cancer in canine mammary tumors&amp;rdquo;. Genome Research 31. First published online 2020-12-23, pp. 337-347. https://doi.org/10.1101/gr.256388.119. Bass, A. J. and J. D. Storey (2021). &amp;ldquo;The optimal discovery procedure for significance analysis of general gene expression studies&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Lab Members</title>
+      <link>https://storeylab.org/patterns/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://storeylab.org/patterns/members/</guid>
+      <description>John D. Storey John is the William R. Harman &amp;lsquo;63 and Mary-Love Harman Professor in Genomics, primarly appointed in the Lewis-Sigler Institute for Integrative Genomics at Princeton University. He has associated faculty appointments in Applied and Computational Mathematics, the Center for Statistics and Machine Learning, Computer Science, Molecular Biology, Operations Research and Financial Engineering, and the Princeton Institute for Computational Science and Engineering (PICSciE). He is the director (with Josh Akey) of the NHGRI Quantitative and Computational Biology Graduate Training Program at Princeton University.</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://storeylab.org/patterns/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://storeylab.org/patterns/software/</guid>
+      <description>biobroom. This R package converts standard objects constructed by bioinformatics packages, especially those in Bioconductor, to the tidy data format. Bioconductor / GitHub
+dnamix. This Fortran program calcluates likelihood ratios as they pertain to mixed DNA samples encountered in forensic science. GitHub
+edge. This R package implements methods for carrying out differential expression analyses of genome-wide gene expression studies. Bioconductor / GitHub
+eigenR2. This R package calculates a high-dimensional version of the classic $R^2$ statistic.</description>
+    </item>
+    
+    <item>
+      <title>Contact &amp; Links</title>
+      <link>https://storeylab.org/patterns/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://storeylab.org/patterns/contact/</guid>
+      <description>Contact Carl Icahn Labs
+Princeton University
+Princeton NJ 08544, USA
+Phone: +1.609.258.0859
+JDS Email
+Faculty Assistant: Lee Morgan
+Links Storey Lab GitHub
+JDS on Google Scholar
+JDS on ORCID may be out of date</description>
+    </item>
+    
+  </channel>
+</rss>
