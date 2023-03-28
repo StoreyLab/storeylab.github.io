@@ -22,7 +22,7 @@ Extending fundamental population genetics models and quantities &amp;mdash; such
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://storeylab.org/patterns/publications/</guid>
-      <description>Ochoa, A. and J. D. Storey (2021). &amp;ldquo;Estimating F_ST and kinship for arbitrary population structures&amp;rdquo;. PLoS Genetics 17.1. First published online 2020-11-02, p. e1009241. https://doi.org/10.1371/journal.pgen.1009241. Graim, K. and et al. (2021). &amp;ldquo;Modeling molecular development of breast cancer in canine mammary tumors&amp;rdquo;. Genome Research 31. First published online 2020-12-23, pp. 337-347. https://doi.org/10.1101/gr.256388.119. Bass, A. J. and J. D. Storey (2021). &amp;ldquo;The optimal discovery procedure for significance analysis of general gene expression studies&amp;rdquo;.</description>
+      <description>Ochoa, A. and J. D. Storey (2021). &amp;ldquo;Estimating FST and kinship for arbitrary population structures&amp;rdquo;. PLoS Genetics 17.1. First published online 2020-11-02, p. e1009241. https://doi.org/10.1371/journal.pgen.1009241. Graim, K. and et al. (2021). &amp;ldquo;Modeling molecular development of breast cancer in canine mammary tumors&amp;rdquo;. Genome Research 31. First published online 2020-12-23, pp. 337-347. https://doi.org/10.1101/gr.256388.119. Bass, A. J. and J. D. Storey (2021). &amp;ldquo;The optimal discovery procedure for significance analysis of general gene expression studies&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -43,7 +43,7 @@ Extending fundamental population genetics models and quantities &amp;mdash; such
       <description>biobroom. This R package converts standard objects constructed by bioinformatics packages, especially those in Bioconductor, to the tidy data format. Bioconductor / GitHub
 dnamix. This Fortran program calcluates likelihood ratios as they pertain to mixed DNA samples encountered in forensic science. GitHub
 edge. This R package implements methods for carrying out differential expression analyses of genome-wide gene expression studies. Bioconductor / GitHub
-eigenR2. This R package calculates a high-dimensional version of the classic $R^2$ statistic.</description>
+eigenR2. This R package calculates a high-dimensional version of the classic R2 statistic.</description>
     </item>
     
     <item>
