@@ -41,9 +41,8 @@ Extending fundamental population genetics models and quantities &amp;mdash; such
       
       <guid>https://storeylab.org/patterns/software/</guid>
       <description>biobroom. This R package converts standard objects constructed by bioinformatics packages, especially those in Bioconductor, to the tidy data format. Bioconductor / GitHub
-dnamix. This Fortran program calcluates likelihood ratios as they pertain to mixed DNA samples encountered in forensic science. GitHub
-edge. This R package implements methods for carrying out differential expression analyses of genome-wide gene expression studies. Bioconductor / GitHub
-eigenR2. This R package calculates a high-dimensional version of the classic R2 statistic.</description>
+bnpsd. This R package simulates admixed populations via simulated of allele frequencies and genotypes from the BN-PSD (&amp;ldquo;Balding-Nichols Pritchard-Stephens-Donnelly&amp;rdquo;) admixture model. This model enables the simulation of complex population structures, ideal for illustrating challenges in kinship coefficient and FST estimation. CRAN / GitHub
+dnamix. This Fortran program calcluates likelihood ratios as they pertain to mixed DNA samples encountered in forensic science.</description>
     </item>
     
     <item>
