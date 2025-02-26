@@ -4,7 +4,8 @@
     <title>Tags on John Storey Lab | Princeton University</title>
     <link>https://storeylab.org/tags/</link>
     <description>Recent content in Tags on John Storey Lab | Princeton University</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://storeylab.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://storeylab.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
